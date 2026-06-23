@@ -105,13 +105,13 @@ Tracks parking status and vehicle information.
 ## Author
 
 Soheb Sadik Mujawar
+
 Master in Computer Applications
+
 D. Y. Patil Agriculture and Technical University, Talsande
 
-•	Git Hub Link: https://github.com/sohebmujawar/Smart-parking-system-for
-smart-cities.git  
+•	Git Hub Link: https://github.com/sohebmujawar/Smart-parking-system-for-smart-cities.git
 
-•	Demo Link: https://drive.google.com/file/d/1sWyG7BiD8PaFg
-Yt4sHQJuUHhTwqbtnf/view?usp=sharing  
+•	Demo Link: https://drive.google.com/file/d/1sWyG7BiD8PaFg-Yt4sHQJuUHhTwqbtnf/view?usp=sharing  
 
 
